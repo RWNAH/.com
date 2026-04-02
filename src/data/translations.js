@@ -61,7 +61,7 @@ export const translations = {
             'الكروز راديسون',
             'التلفريك',
           ],
-          image: 'https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=800&q=80', /* Luxury Hotel Suite */
+          image: '/11.jpg',
         },
         {
           title: 'موسكو Premium',
@@ -154,7 +154,7 @@ export const translations = {
             'تذوق المطبخ الداغستاني الأصيل',
             'رحلة بحرية على بحر قزوين',
           ],
-          image: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=800&q=80', /* Epic Green Landscape */
+          image: '/12.jpg',
         },
       ],
     },
