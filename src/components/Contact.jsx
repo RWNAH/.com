@@ -41,9 +41,9 @@ export default function Contact() {
                 @rwnah_kh
               </a>
 
-              <a href="mailto:hello@Rwnah.com" className="contact-item">
+              <a href="mailto:hello@rwnah.net" className="contact-item">
                 <span className="contact-item-icon">✉️</span>
-                hello@Rwnah.com
+                hello@rwnah.net
               </a>
             </div>
           </div>

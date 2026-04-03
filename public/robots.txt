@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rwnah.vercel.app/sitemap.xml
+Sitemap: https://rwnah.net/sitemap.xml

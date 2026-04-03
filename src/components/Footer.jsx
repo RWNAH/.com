@@ -58,8 +58,8 @@ export default function Footer() {
             <a href="https://instagram.com/rwnah_kh" target="_blank" rel="noreferrer" className="footer-contact-btn">
               <InstagramIcon /> @rwnah_kh
             </a>
-            <a href="mailto:hello@Rwnah.com" className="footer-contact-btn">
-              <Mail size={16} /> hello@Rwnah.com
+            <a href="mailto:hello@rwnah.net" className="footer-contact-btn">
+              <Mail size={16} /> hello@rwnah.net
             </a>
           </div>
         </motion.div>
@@ -105,8 +105,8 @@ export default function Footer() {
               <MessageCircle size={15} className="footer-col-icon" />
               {isRTL ? 'واتساب' : 'WhatsApp'}
             </a>
-            <a href="mailto:hello@Rwnah.com" className="footer-col-link">
-              <Mail size={15} className="footer-col-icon" /> hello@Rwnah.com
+            <a href="mailto:hello@rwnah.net" className="footer-col-link">
+              <Mail size={15} className="footer-col-icon" /> hello@rwnah.net
             </a>
           </div>
 
